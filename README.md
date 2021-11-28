@@ -3,10 +3,9 @@
 </p>
 
 <h2>Helouuu! Me nombre es Yerko!<img width="70" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h2>
-<p>Soy <b>Desarrollador Web Fullstack Javascript</b>, aprendiz de tiempo completo y amante de las terminales.</p>
-<p>🌱 Actualmente aprendiendo Angular.</p>
+<p>Soy <b>Desarrollador Web Fullstack Javascript</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente aprendiendo Angular.</p>
 
-<span>👇 Aquí puedes conectar conmigo!</span>
+<h4>👇 Aquí puedes conectar conmigo!</h4>
 
 [![Linkedin: yerkocortesbaeza](https://img.shields.io/badge/-yerkocortesbaeza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yerkocortesbaeza/)](https://www.linkedin.com/in/yerkocortesbaeza/)
 [![GitHub yerkodigo](https://img.shields.io/github/followers/yerkodigo?label=follow&style=social)](https://github.com/yerkodigo)
