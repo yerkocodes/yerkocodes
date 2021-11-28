@@ -11,7 +11,9 @@
 [![Linkedin: yerkocortesbaeza](https://img.shields.io/badge/-yerkocortesbaeza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yerkocortesbaeza/)](https://www.linkedin.com/in/yerkocortesbaeza/)
 [![GitHub yerkodigo](https://img.shields.io/github/followers/yerkodigo?label=follow&style=social)](https://github.com/yerkodigo)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerkodigo&layout=compact)](https://github.com/yerkodigo/github-readme-stats)
+-->
 
 ### 🤖 Un poco más sobre mí...  
 
