@@ -2,7 +2,7 @@
   <img align="center" width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQHyANZgkWMbnQ/profile-displaybackgroundimage-shrink_200_800/0/1630871166844?e=1643846400&v=beta&t=gq6kVj4YfilqF0fTB2I8OqhI-l65zzSs0dKdQsnKMyI" />
 </p>
 
-<h2>Helouuu! Me nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h2>
+<h2>Helouuu! Mi nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h2>
 <p>Soy <b>Desarrollador Web Fullstack Javascript</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente aprendiendo Angular.</p>
 
 <h4>👇 Aquí puedes conectar conmigo!</h4>
