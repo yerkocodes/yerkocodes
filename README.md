@@ -3,7 +3,7 @@
 </p>
 
 <h2>Helouuu! Mi nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h2>
-<p>Soy <b>Desarrollador Web Fullstack Javascript</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente aprendiendo Angular.</p>
+<p>Soy <b>Desarrollador Web Fullstack Javascript</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente ampliando mis conocimientos en JAVA.</p>
 
 <h4>👇 Aquí puedes conectar conmigo!</h4>
 
@@ -19,7 +19,7 @@
 ```javascript
 const yerko = {
   code: [Javascript, HTML, CSS, Typescript],
-  tools: [Node, Express, Bootstrap, Git, PostgreSQL, Neovim, Angular],
+  tools: [Node, Express, Bootstrap, Git, PostgreSQL, Neovim],
   hobbies: ["Running", "Bicycle", "Series and Movies", "Juggling", "Books"],
 }
 ```
