@@ -18,9 +18,10 @@
 
 ```javascript
 const yerko = {
-  code: [Javascript, HTML, CSS, Typescript],
+  code: [Javascript, HTML, CSS, TypescriptPadawan],
   tools: [Node, Express, Bootstrap, Git, PostgreSQL, Neovim],
   hobbies: ["Running", "Bicycle", "Series and Movies", "Juggling", "Books"],
+  priority: "Learn",
 }
 ```
 
