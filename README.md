@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <img align="center" width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQHyANZgkWMbnQ/profile-displaybackgroundimage-shrink_200_800/0/1630871166844?e=1649894400&v=beta&t=SMORlVujwO4mhW0oknqhjFMBOx3zinS0aP2h9vdUAVk" />
 </p>
+-->
 
-<h2>Helouuu! Mi nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h2>
+<h1>Helouuu! Mi nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h1>
 <p>Soy <b>Desarrollador Web Fullstack Javascript Trainee</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente ampliando mis conocimientos en JAVA.</p>
 
 <h4>👇 Aquí puedes conectar conmigo!</h4>
