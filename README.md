@@ -26,15 +26,15 @@ const yerko = {
   priority: "Learn",
 }
 ```
-<!--
+
 ___
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerkodigo&langs_count=10&border_radius=10&layout=default&custom_title=Lenguajes%20más%20utilizados&hide=shell" alt="imagencita">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerkodigo&langs_count=5&border_radius=10&layout=default&custom_title=Lenguajes%20más%20utilizados&hide=shell" alt="imagencita">
 </p>
 
 ___
--->
+
 
 <!--
 **yerkodigo/yerkodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
