@@ -1,8 +1,7 @@
-<!--
+
 <p align="center">
-  <img align="center" width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQHyANZgkWMbnQ/profile-displaybackgroundimage-shrink_200_800/0/1630871166844?e=1649894400&v=beta&t=SMORlVujwO4mhW0oknqhjFMBOx3zinS0aP2h9vdUAVk" />
+  <img align="center" width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQFkuamL-zRaOA/profile-displaybackgroundimage-shrink_200_800/0/1661455826595?e=1666828800&v=beta&t=HCw3scq0AZFwGbeFgucxLkSZDQYek2Pdv9eNU--eA7s" />
 </p>
--->
 
 <h1>Helouuu! Mi nombre es Yerko!<img width="100" src="https://i.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp"></h1>
 <p>Soy <b>Desarrollador Web Fullstack Javascript Trainee</b>, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente ampliando mis conocimientos en JAVA.</p>
@@ -10,7 +9,7 @@
 <h4>👇 Aquí puedes conectar conmigo!</h4>
 
 [![Linkedin: yerkocortesbaeza](https://img.shields.io/badge/-yerkocortesbaeza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yerkocortesbaeza/)](https://www.linkedin.com/in/yerkocortesbaeza/)
-[![GitHub yerkodigo](https://img.shields.io/github/followers/yerkodigo?label=follow&style=social)](https://github.com/yerkodigo)
+[![GitHub yerkocodes](https://img.shields.io/github/followers/yerkocodeso?label=follow&style=social)](https://github.com/yerkocodes)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerkodigo&layout=compact)](https://github.com/yerkodigo/github-readme-stats)
@@ -30,7 +29,7 @@ const yerko = {
 ___
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerkodigo&langs_count=5&border_radius=10&layout=default&custom_title=Lenguajes%20más%20utilizados&hide=shell" alt="imagencita">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerkocodes&langs_count=5&border_radius=10&layout=default&custom_title=Lenguajes%20más%20utilizados&hide=shell" alt="imagencita">
 </p>
 
 ___
