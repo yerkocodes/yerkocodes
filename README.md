@@ -46,6 +46,10 @@
 <hr>
 
 ![Find-me](https://img.shields.io/static/v1?logo=&label=&message=🔎-Find-me:&color=111&logoColor=white&style=flat)
-[![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=&message=Instagram&color=cc2d88&logoColor=white&style=flat)](https://www.instagram.com/yerkocodes){:target="_blank"}
-[![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=&message=LinkedIn&color=blue&logoColor=white&style=flat)](https://www.linkedin.com/in/yerkocortesbaeza/){:target="_blank"}
-[![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)](mailto:holayerkocodes@gmail.com?Subject=){:target="_blank"}
+[![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=&message=Instagram&color=cc2d88&logoColor=white&style=flat)](https://www.instagram.com/yerkocodes)
+[![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=&message=LinkedIn&color=blue&logoColor=white&style=flat)](https://www.linkedin.com/in/yerkocortesbaeza/)
+<a href="mailto:holayerkocodes@gmail.com?Subject=" target="_blank">
+[![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)]()
+</a>
+
+
