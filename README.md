@@ -1,16 +1,14 @@
-# 💫 About Me:
-Soy Desarrollador Web Fullstack Javascript Trainee, aprendiz de tiempo completo y amante de las terminales.<br>🌱 Actualmente ampliando mis conocimientos en JAVA ☕
+### Hi, I'm Yerko! 🤘 &nbsp;<sub>I write on paper everything I learn. I like to teach programming. I try to read a lot.</sub>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yerkocodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yerkocortesbaeza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yerkocodes) 
-
+**Fullstack Developer Trainee** >> _Working in Web development with Java & Javascript_ <br>
+**Graphic Designer** >> _I apply knowledge acquired in my professional career as a designer to improve my work as a developer_
+<hr>
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat)
 ![Html5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=565656&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=565656&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=565656&logoColor=white&style=flat)
-![Java](https://img.shields.io/static/v1?logo=JAVA&label=&message=JAVA&color=565656&logoColor=white&style=flat)  
+![Java](https://img.shields.io/static/v1?logo=JAVA&label=&message=☕-JAVA&color=565656&logoColor=white&style=flat)  
 
 ![Libraries & frameworks](https://img.shields.io/static/v1?label=&message=Libraries-Frameworks:&color=111&style=flat)
 ![Bootstrap](https://img.shields.io/static/v1?logo=Bootstrap&label=&message=Bootstrap&color=565656&logoColor=white&style=flat)
@@ -31,6 +29,7 @@ Soy Desarrollador Web Fullstack Javascript Trainee, aprendiz de tiempo completo 
 ![Eclipse](https://img.shields.io/static/v1?logo=EclipseIDE&label=&message=EclipseIDE&color=565656&logoColor=white&style=flat)
 ![IntelliJIDEA](https://img.shields.io/static/v1?logo=IntelliJIDEA&label=&message=IntelliJ-IDEA-CE&color=565656&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/static/v1?logo=Postman&label=&message=Postman&color=565656&logoColor=white&style=flat)
+![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=565656&logoColor=white&style=flat)
 
 ![Design-Software](https://img.shields.io/static/v1?label=&message=Design-Software:&color=111&style=flat)
 ![Adobe-Illustrator](https://img.shields.io/static/v1?logo=AdobeIllustrator&label=&message=Adobe-Illustrator&color=565656&logoColor=white&style=flat)
@@ -44,19 +43,9 @@ Soy Desarrollador Web Fullstack Javascript Trainee, aprendiz de tiempo completo 
 ![Linux](https://img.shields.io/static/v1?logo=Linux&label=&message=Linux&color=565656&logoColor=white&style=flat)
 ![Kali-Linux](https://img.shields.io/static/v1?logo=KaliLinux&label=&message=Kali-Linux&color=565656&logoColor=white&style=flat)
 
+<hr>
 
-
-
-
-
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yerkocodes&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yerkocodes&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yerkocodes&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yerkocodes&icon=0&color=12)](https://visitcount.itsvg.in)
+![Find-me](https://img.shields.io/static/v1?logo=&label=&message=🔎-Find-me:&color=111&logoColor=white&style=flat)
+[![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=&message=Instagram&color=cc2d88&logoColor=white&style=flat)](https://www.instagram.com/yerkocodes){:target="_blank"}
+[![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=&message=LinkedIn&color=blue&logoColor=white&style=flat)](https://www.linkedin.com/in/yerkocortesbaeza/){:target="_blank"}
+[![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)](mailto:holayerkocodes@gmail.com?Subject=){:target="_blank"}
