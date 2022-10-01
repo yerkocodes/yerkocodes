@@ -10,7 +10,7 @@
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=565656&logoColor=white&style=flat)
 ![Java](https://img.shields.io/static/v1?logo=JAVA&label=&message=☕%20JAVA&color=565656&logoColor=white&style=flat)  
 
-![Libraries & frameworks](https://img.shields.io/static/v1?label=&message=Libraries%20&%20Frameworks:%20&color=111&style=flat)
+![Libraries & frameworks](https://img.shields.io/static/v1?label=&message=Libraries%20/%20Frameworks:%20&color=111&style=flat)
 ![Bootstrap](https://img.shields.io/static/v1?logo=Bootstrap&label=&message=Bootstrap&color=565656&logoColor=white&style=flat)
 ![JQuery](https://img.shields.io/static/v1?logo=JQuery&label=&message=JQuery&color=565656&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&color=565656&logoColor=white&style=flat)
