@@ -1,8 +1,8 @@
 ### Hi, I'm Yerko! 🤘 &nbsp;<sub>I write on paper everything I learn. I like to teach programming. I try to read a lot.</sub>
+---
 
 **Fullstack Developer Trainee** >> _Working in Web development with **Java** & **Javascript**_ <br>
 **Graphic Designer** >> _I apply knowledge acquired in my professional career as a designer to improve my work as a developer_
-<hr>
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:%20&color=111&style=flat)
 ![Html5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=565656&logoColor=white&style=flat)
@@ -46,7 +46,7 @@
 ![English-level](https://img.shields.io/static/v1?logo=&label=&message=🇺🇸%20English%20level:%20&color=111&logoColor=white&style=flat)
 ![Level](https://img.shields.io/static/v1?logo=&label=&message=A2&color=565656&logoColor=white&style=flat)
 
-<hr>
+---
 
 ![Find-me](https://img.shields.io/static/v1?logo=&label=&message=🔎%20Find%20me:%20&color=111&logoColor=white&style=flat)
 <a href="https://www.instagram.com/yerkocodes" target="_blank">
