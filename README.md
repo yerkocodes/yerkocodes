@@ -56,4 +56,8 @@
 ![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)
 </a>
 
+<a href="https://mailto:holayerkocodes@gmail.com?Subject=" target="_blank">
+<img src="https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat">
+</a>
+
 
