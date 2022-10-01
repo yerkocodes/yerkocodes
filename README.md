@@ -56,8 +56,5 @@
 ![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)
 </a>
 
-<a href="https://www.linkedin.com/in/yerkocortesbaeza" target="_blank">
-<img src="https://img.shields.io/static/v1?logo=LinkedIn&label=&message=LinkedIn&color=blue&logoColor=white&style=flat">
-</a>
-
-
+<object data="https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github"></object>
+<a href="https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst"><img src="https://img.shields.io/static/v1?label=Question&message=Unanswered&color=lightgrey&link=https://stackoverflow.com" /></a>
