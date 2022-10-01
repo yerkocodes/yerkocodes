@@ -43,6 +43,9 @@
 ![Linux](https://img.shields.io/static/v1?logo=Linux&label=&message=Linux&color=565656&logoColor=white&style=flat)
 ![Kali-Linux](https://img.shields.io/static/v1?logo=KaliLinux&label=&message=Kali%20Linux&color=565656&logoColor=white&style=flat)
 
+![English-level](https://img.shields.io/static/v1?logo=&label=&message=🇺🇸%20English%20level:&color=111&logoColor=white&style=flat)
+![Level](https://img.shields.io/static/v1?logo=&label=&message=A2&color=565656&logoColor=white&style=flat)
+
 <hr>
 
 ![Find-me](https://img.shields.io/static/v1?logo=&label=&message=🔎%20Find%20me:&color=111&logoColor=white&style=flat)
