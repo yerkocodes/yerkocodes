@@ -1,7 +1,7 @@
 ### Hi, I'm Yerko! 🤘 &nbsp;<sub>I write on paper everything I learn. I like to teach programming. I try to read a lot.</sub>
 ---
 
-**Fullstack Developer Trainee** >> _Working in Web development with **Java** & **Javascript**_ <br>
+**Software Developer** >> _Working in Web development with **Java** & **Javascript**_ <br>
 **Graphic Designer** >> _I apply knowledge acquired in my professional career as a designer to improve my work as a developer_
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:%20&color=111&style=flat)
@@ -18,6 +18,7 @@
 ![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=565656&logoColor=white&style=flat)
 ![Spring](https://img.shields.io/static/v1?logo=Spring&label=&message=Spring&color=565656&logoColor=white&style=flat)
 ![SpringBoot](https://img.shields.io/static/v1?logo=SpringBoot&label=&message=Spring%20Boot&color=565656&logoColor=white&style=flat)
+![AngularJS](https://img.shields.io/static/v1?logo=angularjs&label=&message=AngularJS&color=565656&logoColor=white&style=flat)
 
 ![Databases](https://img.shields.io/static/v1?label=&message=Databases:%20&color=111&style=flat)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=565656&logoColor=white&style=flat)
@@ -49,12 +50,11 @@
 ---
 
 ![Find-me](https://img.shields.io/static/v1?logo=&label=&message=🔎%20Find%20me:%20&color=111&logoColor=white&style=flat)
-<a href="https://www.instagram.com/yerkocodes" target="_blank">
-![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=&message=Instagram&color=cc2d88&logoColor=white&style=flat)
-</a>
 <a href="https://www.linkedin.com/in/yerkocortesbaeza" target="_blank">
 ![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=&message=LinkedIn&color=blue&logoColor=white&style=flat)
 </a>
 <a href="mailto:holayerkocodes@gmail.com?Subject=" target="_blank">
 ![Email](https://img.shields.io/static/v1?logo=Gmail&label=Email&labelColor=bb001b&message=holayerkocodes@gmail.com&color=ea4335&logoColor=white&style=flat)
 </a>
+
+<!--comentario ![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=&message=Instagram&color=cc2d88&logoColor=white&style=flat)-->
