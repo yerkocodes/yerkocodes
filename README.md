@@ -1,8 +1,10 @@
-### Hi, I'm Yerko! 🤘 &nbsp;<sub>I write on paper everything I learn. I like to teach programming. I try to read a lot.</sub>
+### Hi, I'm Yerko! 🤘 &nbsp;<sub>Escribo en papel lo que aprendo. Boxeo para un debug de mi mente. Intento aprender siempre algo nuevo.</sub>
 ---
 
-**Software Developer** >> _Working in Web development with **Java** & **Javascript**_ <br>
-**Graphic Designer** >> _I apply knowledge acquired in my professional career as a designer to improve my work as a developer_
+**Software Developer** >> _Trabajo como fullstack con **Java** & **Javascript/typescript**_ <br>
+**Graphic Designer** >> _Aplico lo que aprendí en mi carrera profesional como Diseñador para mejorar mi trabajo como desarrollador._
+
+_En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](https://github.com/nisiara)**._
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:%20&color=111&style=flat)
 ![Html5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=565656&logoColor=white&style=flat)
@@ -44,8 +46,8 @@
 ![Linux](https://img.shields.io/static/v1?logo=Linux&label=&message=Linux&color=565656&logoColor=white&style=flat)
 ![Kali-Linux](https://img.shields.io/static/v1?logo=KaliLinux&label=&message=Kali%20Linux&color=565656&logoColor=white&style=flat)
 
-![English-level](https://img.shields.io/static/v1?logo=&label=&message=🇺🇸%20English%20level:%20&color=111&logoColor=white&style=flat)
-![Level](https://img.shields.io/static/v1?logo=&label=&message=A2&color=565656&logoColor=white&style=flat)
+<!--![English-level](https://img.shields.io/static/v1?logo=&label=&message=🇺🇸%20English%20level:%20&color=111&logoColor=white&style=flat)
+![Level](https://img.shields.io/static/v1?logo=&label=&message=A2&color=565656&logoColor=white&style=flat)-->
 
 ---
 
