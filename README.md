@@ -1,4 +1,6 @@
-### Hi, I'm Yerko! 🤘 &nbsp;<sub>Escribo en papel lo que aprendo. Boxeo para un debug de mi mente. Intento aprender siempre algo nuevo.</sub>
+### Hi, I'm Yerko! 🤘
+![Terminal](https://img.shields.io/static/v1?label=&message=En%20un%20mundo%20de%20colores%20me%20resisto%20a%20dejar%20de%20usar%20las%20terminales%20monocolor.&color=111&style=flat&logo=gnu-bash&logoColor=white)<br>
+![BOXING](https://img.shields.io/static/v1?label=&message=🥊%20Boxeo%20para%20un%20debug%20de%20mi%20mente.&color=555&style=flat&logo=martial-arts&logoColor=white)
 ---
 
 **Software Developer** >> _Trabajo como fullstack con **Java** & **Javascript/typescript**_ <br>
@@ -10,6 +12,7 @@ _En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](http
 ![Html5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=565656&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=565656&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=565656&logoColor=white&style=flat)
+![Typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=565656&logoColor=white&style=flat)
 ![Java](https://img.shields.io/static/v1?logo=JAVA&label=&message=☕%20JAVA&color=565656&logoColor=white&style=flat)  
 
 ![Libraries & frameworks](https://img.shields.io/static/v1?label=&message=Libraries%20/%20Frameworks:%20&color=111&style=flat)
@@ -21,6 +24,7 @@ _En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](http
 ![Spring](https://img.shields.io/static/v1?logo=Spring&label=&message=Spring&color=565656&logoColor=white&style=flat)
 ![SpringBoot](https://img.shields.io/static/v1?logo=SpringBoot&label=&message=Spring%20Boot&color=565656&logoColor=white&style=flat)
 ![AngularJS](https://img.shields.io/static/v1?logo=angularjs&label=&message=AngularJS&color=565656&logoColor=white&style=flat)
+![Angular Framework](https://img.shields.io/static/v1?logo=angular&label=&message=Angular%20Framework&color=565656&logoColor=white&style=flat)
 
 ![Databases](https://img.shields.io/static/v1?label=&message=Databases:%20&color=111&style=flat)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=565656&logoColor=white&style=flat)
