@@ -3,7 +3,7 @@
 ![BOXING](https://img.shields.io/static/v1?label=&message=🥊%20Boxeo%20para%20un%20debug%20de%20mi%20mente.&color=555&style=flat&logo=martial-arts&logoColor=white)
 ---
 
-**Software Developer** >> _Trabajo como fullstack con **Java** & **Javascript/typescript**_ <br>
+**Software Developer** >> _Trabajo como desarrollador fullstack con **Java** & **Javascript/typescript**_ <br>
 **Graphic Designer** >> _Aplico lo que aprendí en mi carrera profesional como Diseñador para mejorar mi trabajo como desarrollador._
 
 _En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](https://github.com/nisiara)**._
