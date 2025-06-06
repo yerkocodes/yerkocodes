@@ -6,7 +6,7 @@
 **Software Developer** >> _Trabajo como desarrollador fullstack con **Java** & **Javascript/typescript**_ <br>
 **Graphic Designer** >> _Aplico lo que aprendí en mi carrera profesional como Diseñador para mejorar mi trabajo como desarrollador._
 
-_En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](https://github.com/nisiara)**._
+<!--_En paralelo trabajando en nuestros proyectos de portafolio con **[nisiara](https://github.com/nisiara)**._-->
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:%20&color=111&style=flat)
 ![Html5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=565656&logoColor=white&style=flat)
